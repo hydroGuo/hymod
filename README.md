@@ -1,2 +1,2 @@
 # hymod
-Hydrological models and common methods
+Common hydrological models and methods
